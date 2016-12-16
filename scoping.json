@@ -1,0 +1,84 @@
+{
+	"sprints": [
+		{
+			"sprint_id": 1,
+			"begin_date": "2016-12-16T00:00:01-05:00",
+			"end_date": "2017-01-02T23:59:59-05:00",
+			"accomplishments": [
+				"Codebase now uses exception handling",
+				"Login & Logout Pages separated from the game client",
+				"Sphere (using vue.js) has very simple commands (see online players & give them ore)",
+				"Create a python 3 library on pypi (Synergy) which is then used in And/Ore as the chat server"
+			],
+			"versions_covered": [
+				"And/Ore - v1.4.9.0 - Benevolent Bearded Dragon - Beta",
+				"Sphere - v1.0.0.0 - Aptitudinal Aardvark - Release",
+				"Synergy - v0.1",
+				"Smelter - v0.6",
+				"And/Ore - v1.4.9.1 - Benevolent Bearded Dragon - Release Candidate",
+				"And/Ore - v1.5.0.0 - Benevolent Bearded Dragon - Release"
+			]
+		},
+		{
+			"sprint_id": 2,
+			"begin_date": "2017-01-03T00:00:01-05:00",
+			"end_date": "2017-01-16T23:59:59-05:00",
+			"accomplishments": [
+				"Game Client now rendering game view w/ Pixi.js (art assets probably consist of rendered unicode)"
+			],
+			"versions_covered": [
+				"And/Ore - v1.5.7.0 - C_____ C_____ - Alpha",
+				"And/Ore - v1.5.8.0 - C_____ C_____ - Beta",
+				"And/Ore - v1.5.9.0 - C_____ C_____ - Gamma",
+				"And/Ore - v1.5.9.1 - C_____ C_____ - Release Candidate",
+				"And/Ore - v1.6.0.0 - C_____ C_____ - Release"
+			]
+		},
+		{
+			"sprint_id": 3,
+			"begin_date": "2017-01-17T00:00:01-05:00",
+			"end_date": "2017-01-31T23:59:59-05:00",
+			"accomplishments": [
+				"Game Client is now rendering some art assets along with unicode characters",
+				"Node server no longer sends information for every cell, but instead for every object, which has it's cell coordinates"
+			],
+			"versions_covered": [
+				"And/Ore - v1.6.7.0 - D_____ D_____ - Alpha",
+				"And/Ore - v1.6.8.0 - D_____ D_____ - Beta",
+				"And/Ore - v1.6.9.0 - D_____ D_____ - Gamma",
+				"And/Ore - v1.6.9.1 - D_____ D_____ - Release Candidate",
+				"And/Ore - v1.7.0.0 - D_____ D_____ - Release"
+			]
+		},
+		{
+			"sprint_id": 4,
+			"begin_date": "2017-02-01T00:00:01-05:00",
+			"end_date": "2017-02-14T23:59:59-05:00",
+			"accomplishments": [
+				"Game Client is now rendering art assets instead of unicode characters"
+			],
+			"versions_covered": [
+				"And/Ore - v1.7.7.0 - E_____ E_____ - Alpha",
+				"And/Ore - v1.7.8.0 - E_____ E_____ - Beta",
+				"And/Ore - v1.7.9.0 - E_____ E_____ - Gamma",
+				"And/Ore - v1.7.9.1 - E_____ E_____ - Release Candidate",
+				"And/Ore - v1.8.0.0 - E_____ E_____ - Release"
+			]
+		},
+		{
+			"sprint_id": 5,
+			"begin_date": "2017-02-15T00:00:01-05:00",
+			"end_date": "2017-03-01T23:59:59-05:00",
+			"accomplishments": [
+				""
+			],
+			"versions_covered": [
+				"And/Ore - v1.8.7.0 - Final Form - Alpha",
+				"And/Ore - v1.8.8.0 - Final Form - Beta",
+				"And/Ore - v1.8.9.0 - Final Form - Games",
+				"And/Ore - v1.8.9.1 - Final Form - Release Candidate",
+				"And/Ore - v1.9.0.0 - Final Form - Release"
+			]
+		}
+	]
+}
